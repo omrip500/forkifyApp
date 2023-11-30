@@ -30,6 +30,20 @@ Forkify is a recipe application that not only allows users to discover and explo
 - **JavaScript**: Implementing dynamic features for an interactive user experience.
 
 
+## How to Run
+
+ ```bach
+   Install dependencies: npm install
+   ````
+```bach
+  Run the application: npm start
+   ````
+ In your browser, enter: [http://localhost:1234/](http://localhost:1234/)
+
+
+
+
+
 ## Home Screen
 ![Home Screen](screenshots/home.png)
 
@@ -42,16 +56,6 @@ Forkify is a recipe application that not only allows users to discover and explo
 ## Upload a New Recipe
 ![Upload a New Recipe](screenshots/uploadRecipe.png)
 
-
-## How to Run
-
- ```bach
-   Install dependencies: npm install
-   ````
-```bach
-  Run the application: npm start
-   ````
- In your browser, enter: [http://localhost:1234/](http://localhost:1234/)
 
 
 
