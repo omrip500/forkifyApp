@@ -31,11 +31,13 @@ Forkify is a recipe application that not only allows users to discover and explo
 
 ## How to Run
 
-1. ```bach
+ ```bach
    Install dependencies: npm install
-2. ```bach
-    Run the application: npm start
-3. In your browser, enter: [http://localhost:1234/](http://localhost:1234/)
+   ````
+```bach
+  Run the application: npm start
+   ````
+ In your browser, enter: [http://localhost:1234/](http://localhost:1234/)
 
 
 
