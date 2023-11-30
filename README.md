@@ -29,6 +29,20 @@ Forkify is a recipe application that not only allows users to discover and explo
 
 - **JavaScript**: Implementing dynamic features for an interactive user experience.
 
+
+## Home Screen
+![Home Screen](screenshots/home.png)
+
+## Search Results
+![Search Results](screenshots/searchResults.png)
+
+## Bookmarks
+![Bookmarks](screenshots/bookmarks.png)
+
+## Upload a New Recipe
+![Upload a New Recipe](screenshots/uploadRecipe.png)
+
+
 ## How to Run
 
  ```bach
